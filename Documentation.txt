@@ -1,0 +1,50 @@
+
+
+// Label= with a text Money to the left 
+//at the right another Label=name"lblMoney"
+ and value is a text of "0"
+// create a Variable  name is "money" type int value 
+is "0"
+//to increase the money need a Timer Control =has a
+ event TICK, each tick the money will increase to 
+one,
+and the user will see the money in the labelmoney
+//goal is to increase money per second
+
+
+Create a button with the text "Buy Hotel 10$" 
+when the user press button 
+if has enough money will buy the hotel
+//Create a 2  Label = with a text "Hotel" 
+and the text "0"  which is  a number that 
+the user will buy
+example:1 "
+//create a global variable with name Hotel with a 
+value "0"
+
+
+
+//"Buy House 10$" ADD BUTTON
+//"Buy HOtel 50" change the 
+current price 
+//ORDER=MONEY,HOUSE AND HOTEL
+
+
+//INCOME is the money you win per second
+//you win $1 of income per house
+//you win $7 of income per hotel
+
+if the user buy house or hotel
+income will  be calcute.
+
+increase the money by the income
+
+
+ income = hotel * 7;
+
+         
+
+
+
+
+
